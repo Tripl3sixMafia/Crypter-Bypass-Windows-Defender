@@ -1,5 +1,5 @@
 # FUD-Crypter-Defender-Bypass
-Origami Crypter with an updated version of the stub that bypasses Windows defender.
+Origami Crypter with an updated version of the stub that bypasses Windows Defender.
 
 Stub will be updated frequently.
 
